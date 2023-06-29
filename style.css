@@ -1,0 +1,13 @@
+.emoji
+{
+  font-size: 48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+body{
+  background-color: rgb(166, 188, 238);
+}
